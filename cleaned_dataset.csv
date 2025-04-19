@@ -1,0 +1,123 @@
+Student_ID,Name,Age,Gender,Location,Enrolment_Date,Course_ID,Date,Time_Spent_Minutes,Completion_Percentage,Rating,Feedback_Text,Age_Group,Engagement_Level
+S002,Student_2,32,Other,Chennai,2023-02-27,PY202,2024-03-02,45,32.2,3,Well structured,25-34,Low
+S002,Student_2,32,Other,Chennai,2023-02-27,PY202,2024-06-03,136,18.18,3,Well structured,25-34,Low
+S005,Student_5,24,Other,Delhi,2023-05-06,DM101,,27,91.49,4,Loved the examples,18-24,Low
+S006,Student_6,28,Other,Delhi,2023-04-25,DM101,,177,98.57,1,Loved the examples,25-34,High
+S006,Student_6,28,Other,Delhi,2023-04-25,DM101,2024-08-01,113,75.54,1,Loved the examples,25-34,Medium
+S006,Student_6,28,Other,Delhi,2023-04-25,DM101,2024-01-02,59,27.12,1,Loved the examples,25-34,Low
+S006,Student_6,28,Other,Delhi,2023-04-25,DM101,2024-07-01,176,99.94,1,Loved the examples,25-34,High
+S006,Student_6,28,Other,Delhi,2023-04-25,DM101,2024-12-01,70,24.97,1,Loved the examples,25-34,Low
+S009,Student_9,25,Other,Kolkata,2023-12-13,UX303,,99,89.28,4,Well structured,25-34,High
+S011,Student_11,19,Female,Chennai,2023-02-14,PY202,2024-10-03,19,85.11,5,Needs improvement,18-24,Low
+S011,Student_11,19,Female,Chennai,2023-02-14,PY202,,42,13.76,5,Needs improvement,18-24,Low
+S014,Student_14,19,Other,Chennai,2023-01-17,UX303,,165,98.58,2,Excellent instructor,18-24,High
+S014,Student_14,19,Other,Chennai,2023-01-17,UX303,,90,69.7,2,Excellent instructor,18-24,Medium
+S015,Student_15,18,Other,Bangalore,2023-01-16,DM101,2024-08-02,83,28.92,3,Needs improvement,18-24,Low
+S016,Student_16,29,Male,Mumbai,2023-02-17,DM101,,66,25.83,3,Loved the examples,25-34,Low
+S016,Student_16,29,Male,Mumbai,2023-02-17,DM101,,44,82.13,3,Loved the examples,25-34,Low
+S017,Student_17,29,Male,Bangalore,2023-04-22,PY202,,80,78.92,5,Great course!,25-34,Medium
+S017,Student_17,29,Male,Bangalore,2023-04-22,PY202,,49,73.58,5,Great course!,25-34,Low
+S018,Student_18,34,Female,Bangalore,2023-04-30,PY202,2024-03-03,66,34.56,3,Too fast-paced,25-34,Low
+S021,Student_21,32,Other,Delhi,2023-01-14,UX303,2024-09-01,139,68.28,4,Needs improvement,25-34,High
+S021,Student_21,32,Other,Delhi,2023-01-14,UX303,,127,73.66,4,Needs improvement,25-34,Medium
+S021,Student_21,32,Other,Delhi,2023-01-14,UX303,,147,79.72,4,Needs improvement,25-34,High
+S022,Student_22,32,Male,Delhi,2023-10-15,PY202,2024-03-03,64,41.93,4,Could be better,25-34,Low
+S022,Student_22,32,Male,Delhi,2023-10-15,PY202,2024-11-01,71,74.81,4,Could be better,25-34,Medium
+S022,Student_22,32,Male,Delhi,2023-10-15,PY202,,72,37.56,4,Could be better,25-34,Medium
+S023,Student_23,29,Other,Mumbai,2023-04-12,PY202,,65,76.47,1,Excellent instructor,25-34,Low
+S023,Student_23,29,Other,Mumbai,2023-04-12,PY202,2024-08-02,13,73.72,1,Excellent instructor,25-34,Low
+S023,Student_23,29,Other,Mumbai,2023-04-12,PY202,2024-05-02,21,97.69,1,Excellent instructor,25-34,Low
+S028,Student_28,24,Other,Delhi,2023-04-23,WD404,2024-06-03,10,69.19,1,Very helpful,18-24,Low
+S028,Student_28,24,Other,Delhi,2023-04-23,WD404,,23,26.88,1,Very helpful,18-24,Low
+S030,Student_30,31,Female,Mumbai,2023-10-29,DM101,2024-05-02,116,40.59,4,Too fast-paced,25-34,Medium
+S034,Student_34,24,Female,Delhi,2023-12-24,PY202,2024-04-03,159,22.88,1,Very helpful,18-24,Low
+S034,Student_34,24,Female,Delhi,2023-12-24,PY202,2024-10-01,123,95.07,1,Very helpful,18-24,High
+S035,Student_35,29,Male,Chennai,2023-08-05,PY202,,58,65.88,4,Very helpful,25-34,Low
+S036,Student_36,25,Male,Chennai,2023-06-24,DM101,,175,13.55,5,Excellent instructor,25-34,Low
+S037,Student_37,32,Female,Delhi,2023-05-23,UX303,2024-02-03,85,77.19,3,Too fast-paced,25-34,Medium
+S037,Student_37,32,Female,Delhi,2023-05-23,UX303,,129,96.66,3,Too fast-paced,25-34,High
+S037,Student_37,32,Female,Delhi,2023-05-23,UX303,2024-12-01,111,11.25,3,Too fast-paced,25-34,Low
+S038,Student_38,20,Female,Mumbai,2023-03-21,WD404,,105,19.75,3,Great course!,18-24,Low
+S038,Student_38,20,Female,Mumbai,2023-03-21,WD404,,87,68.43,3,Great course!,18-24,Medium
+S039,Student_39,31,Female,Delhi,2023-04-21,DM101,2024-07-01,95,31.92,5,Too fast-paced,25-34,Low
+S040,Student_40,34,Other,Chennai,2023-06-22,DM101,2024-05-02,47,98.88,5,Too fast-paced,25-34,Low
+S040,Student_40,34,Other,Chennai,2023-06-22,DM101,,13,42.24,5,Too fast-paced,25-34,Low
+S042,Student_42,25,Other,Kolkata,2023-02-17,WD404,2024-05-03,164,48.72,1,Could be better,25-34,High
+S042,Student_42,25,Other,Kolkata,2023-02-17,WD404,,126,45.89,1,Could be better,25-34,Medium
+S043,Student_43,21,Male,Bangalore,2023-07-14,UX303,,131,16.04,1,Great course!,18-24,Low
+S043,Student_43,21,Male,Bangalore,2023-07-14,UX303,,152,15.4,1,Great course!,18-24,Low
+S043,Student_43,21,Male,Bangalore,2023-07-14,UX303,,41,46.97,1,Great course!,18-24,Low
+S043,Student_43,21,Male,Bangalore,2023-07-14,UX303,,157,55.67,1,Great course!,18-24,High
+S045,Student_45,23,Female,Delhi,2023-07-03,PY202,,178,46.07,1,Great course!,18-24,High
+S045,Student_45,23,Female,Delhi,2023-07-03,PY202,,17,18.26,1,Great course!,18-24,Low
+S045,Student_45,23,Female,Delhi,2023-07-03,PY202,,117,50.83,1,Great course!,18-24,Medium
+S045,Student_45,23,Female,Delhi,2023-07-03,PY202,,89,74.94,1,Great course!,18-24,Medium
+S046,Student_46,27,Male,Bangalore,2023-06-26,WD404,,123,47.28,4,Excellent instructor,25-34,Medium
+S047,Student_47,21,Male,Bangalore,2023-11-06,WD404,2024-10-01,90,61.82,1,Too fast-paced,18-24,Medium
+S047,Student_47,21,Male,Bangalore,2023-11-06,WD404,,173,47.59,1,Too fast-paced,18-24,High
+S049,Student_49,19,Other,Chennai,2023-01-23,DM101,2024-01-03,123,66.82,5,Very helpful,18-24,Medium
+S049,Student_49,19,Other,Chennai,2023-01-23,DM101,2024-09-02,128,50.67,5,Very helpful,18-24,Medium
+S049,Student_49,19,Other,Chennai,2023-01-23,DM101,,83,16.91,5,Very helpful,18-24,Low
+S049,Student_49,19,Other,Chennai,2023-01-23,DM101,,162,55.64,5,Very helpful,18-24,High
+S049,Student_49,19,Other,Chennai,2023-01-23,DM101,,156,68.67,5,Very helpful,18-24,High
+S049,Student_49,19,Other,Chennai,2023-01-23,DM101,,36,82.99,5,Very helpful,18-24,Low
+S050,Student_50,27,Female,Delhi,2023-08-24,WD404,,96,71.1,1,Well structured,25-34,Medium
+S051,Student_51,21,Male,Chennai,2023-10-02,DM101,2024-09-02,153,43.9,2,Could be better,18-24,High
+S052,Student_52,31,Male,Bangalore,2023-03-05,WD404,,67,100.0,5,Very helpful,25-34,Low
+S053,Student_53,33,Male,Delhi,2023-07-13,PY202,,166,35.64,2,Needs improvement,25-34,High
+S055,Student_55,25,Other,Chennai,2023-10-10,DM101,2024-03-01,75,29.41,3,Loved the examples,25-34,Low
+S057,Student_57,25,Other,Delhi,2023-11-18,UX303,2024-09-01,98,31.7,2,Too fast-paced,25-34,Low
+S057,Student_57,25,Other,Delhi,2023-11-18,UX303,2024-10-03,96,83.22,2,Too fast-paced,25-34,High
+S058,Student_58,33,Male,Bangalore,2023-11-13,PY202,,26,74.44,4,Could be better,25-34,Low
+S058,Student_58,33,Male,Bangalore,2023-11-13,PY202,2024-06-01,90,94.0,4,Could be better,25-34,High
+S058,Student_58,33,Male,Bangalore,2023-11-13,PY202,2024-06-02,101,87.59,4,Could be better,25-34,High
+S059,Student_59,30,Female,Delhi,2023-07-05,DM101,,167,99.83,1,Could be better,25-34,High
+S061,Student_61,30,Male,Mumbai,2023-04-09,DM101,,54,90.88,2,Very helpful,25-34,Low
+S061,Student_61,30,Male,Mumbai,2023-04-09,DM101,2024-11-03,148,36.13,2,Very helpful,25-34,High
+S062,Student_62,26,Other,Mumbai,2023-12-27,PY202,,136,12.37,4,Needs improvement,25-34,Low
+S063,Student_63,32,Female,Mumbai,2023-02-05,PY202,,138,91.96,2,Loved the examples,25-34,High
+S063,Student_63,32,Female,Mumbai,2023-02-05,PY202,,92,94.13,2,Loved the examples,25-34,High
+S063,Student_63,32,Female,Mumbai,2023-02-05,PY202,,142,90.54,2,Loved the examples,25-34,High
+S064,Student_64,30,Other,Bangalore,2023-01-24,WD404,,173,12.73,4,Great course!,25-34,Low
+S065,Student_65,18,Other,Kolkata,2023-12-05,DM101,,122,47.41,4,Loved the examples,18-24,Medium
+S067,Student_67,26,Male,Chennai,2023-05-29,DM101,,105,81.54,5,Excellent instructor,25-34,High
+S067,Student_67,26,Male,Chennai,2023-05-29,DM101,2024-06-01,19,22.33,5,Excellent instructor,25-34,Low
+S069,Student_69,29,Female,Chennai,2023-04-30,WD404,,115,72.15,3,Loved the examples,25-34,Medium
+S069,Student_69,29,Female,Chennai,2023-04-30,WD404,2024-05-03,166,92.85,3,Loved the examples,25-34,High
+S071,Student_71,28,Female,Kolkata,2023-07-14,WD404,,61,84.52,2,Too fast-paced,25-34,Low
+S072,Student_72,34,Female,Chennai,2023-05-23,UX303,2024-11-02,83,68.13,5,Too fast-paced,25-34,Medium
+S075,Student_75,20,Other,Delhi,2023-07-06,WD404,,141,39.51,1,Well structured,18-24,High
+S076,Student_76,18,Male,Chennai,2023-03-25,WD404,2024-04-02,94,37.18,5,Very helpful,18-24,Medium
+S077,Student_77,22,Male,Bangalore,2023-07-09,PY202,2024-01-02,162,88.58,5,Could be better,18-24,High
+S077,Student_77,22,Male,Bangalore,2023-07-09,PY202,,147,23.49,5,Could be better,18-24,Low
+S077,Student_77,22,Male,Bangalore,2023-07-09,PY202,,135,18.18,5,Could be better,18-24,Low
+S078,Student_78,27,Male,Bangalore,2023-07-01,UX303,2024-03-01,111,32.9,5,Needs improvement,25-34,Low
+S081,Student_81,24,Male,Bangalore,2023-05-17,DM101,,174,70.42,4,Needs improvement,18-24,High
+S082,Student_82,26,Female,Bangalore,2023-12-26,WD404,2024-08-01,153,47.14,2,Too fast-paced,25-34,High
+S082,Student_82,26,Female,Bangalore,2023-12-26,WD404,2024-12-03,145,22.07,2,Too fast-paced,25-34,Low
+S083,Student_83,25,Female,Mumbai,2023-12-16,DM101,,160,75.19,5,Well structured,25-34,High
+S087,Student_87,33,Male,Delhi,2023-11-22,DM101,,173,70.01,1,Well structured,25-34,High
+S087,Student_87,33,Male,Delhi,2023-11-22,DM101,,113,51.31,1,Well structured,25-34,Medium
+S088,Student_88,22,Male,Kolkata,2023-03-29,DM101,2024-12-01,113,44.13,1,Too fast-paced,18-24,Medium
+S088,Student_88,22,Male,Kolkata,2023-03-29,DM101,,64,91.11,1,Too fast-paced,18-24,Low
+S089,Student_89,20,Other,Chennai,2023-10-01,PY202,2024-10-02,14,96.53,4,Excellent instructor,18-24,Low
+S089,Student_89,20,Other,Chennai,2023-10-01,PY202,,29,36.93,4,Excellent instructor,18-24,Low
+S089,Student_89,20,Other,Chennai,2023-10-01,PY202,,109,70.93,4,Excellent instructor,18-24,Medium
+S090,Student_90,29,Female,Kolkata,2023-05-06,DM101,,85,81.82,3,Well structured,25-34,High
+S090,Student_90,29,Female,Kolkata,2023-05-06,DM101,2024-11-01,78,23.88,3,Well structured,25-34,Low
+S090,Student_90,29,Female,Kolkata,2023-05-06,DM101,2024-01-01,88,50.03,3,Well structured,25-34,Medium
+S090,Student_90,29,Female,Kolkata,2023-05-06,DM101,,163,80.6,3,Well structured,25-34,High
+S091,Student_91,25,Female,Bangalore,2023-03-25,DM101,2024-07-02,115,44.9,3,Very helpful,25-34,Medium
+S091,Student_91,25,Female,Bangalore,2023-03-25,DM101,2024-12-03,72,61.48,3,Very helpful,25-34,Medium
+S091,Student_91,25,Female,Bangalore,2023-03-25,DM101,,121,34.84,3,Very helpful,25-34,Low
+S091,Student_91,25,Female,Bangalore,2023-03-25,DM101,,95,85.75,3,Very helpful,25-34,High
+S092,Student_92,20,Male,Chennai,2023-08-25,WD404,2024-10-02,84,76.14,3,Well structured,18-24,Medium
+S092,Student_92,20,Male,Chennai,2023-08-25,WD404,,72,39.33,3,Well structured,18-24,Medium
+S093,Student_93,18,Female,Bangalore,2023-07-14,DM101,,73,69.18,1,Needs improvement,18-24,Medium
+S094,Student_94,20,Female,Delhi,2023-05-19,PY202,,105,45.2,4,Well structured,18-24,Medium
+S094,Student_94,20,Female,Delhi,2023-05-19,PY202,,16,53.45,4,Well structured,18-24,Low
+S095,Student_95,22,Other,Delhi,2023-11-24,DM101,,125,38.7,3,Too fast-paced,18-24,Medium
+S097,Student_97,31,Other,Chennai,2023-10-13,PY202,,81,77.71,5,Loved the examples,25-34,Medium
+S097,Student_97,31,Other,Chennai,2023-10-13,PY202,,93,27.74,5,Loved the examples,25-34,Low
+S099,Student_99,18,Male,Kolkata,2023-12-17,WD404,,162,22.41,5,Needs improvement,18-24,Low
+S099,Student_99,18,Male,Kolkata,2023-12-17,WD404,,57,53.8,5,Needs improvement,18-24,Low
